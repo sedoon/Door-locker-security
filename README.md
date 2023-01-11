@@ -6,3 +6,5 @@ and External EEPROM to save the password.
 ### Drivers designed the project: Timer, UART, I2C, External EEPROM, Keypad, LCD, and DC Motor
 The PDF will show how to design the drivers layers and the hardware connection :
 [Door locker security.pdf](https://github.com/sedoon/Door-locker-security/files/10388386/Door.locker.security.pdf)
+
+### This video will show running the project on Proteus Simulation after the HEX file has been burned [Link is here]( https://drive.google.com/file/d/1QSOncvkUIo_-R7D_29a3SUgOBbJnfBmZ/view?usp=sharing)
